@@ -2,12 +2,12 @@
 title: hustjlshi
 SEOTitle: 石教林 | hustjlshi
 header-img: img/post-bg-desk.jpg
-email: qiubaiying@gmail.com
-description: "Every failure is leading towards success."
+email: hustjlshi@gmail.com
+description: "One for All, All for one"
 keyword: "石教林 博客"
-url: "http://qiubaiying.github.io"          # your host, for absolute URL
+url: "http://hustjlshi.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/hustjlshi/hustjlshi.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
